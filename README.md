@@ -6,7 +6,10 @@ For this project I created a simple calendar application that allows the user to
 [Click here](https://stricklin927.github.io/WorkDayScheduler/) to view this project.
 
 ## App Demo
+The app when it is first opened:
 ![Screenshot1](/assets/images/screenshot1.png)
+
+Type in your meetings or event info and save it:
 ![Screenshot2](/assets/images/screenshot2.png)
 
 ## Built with
